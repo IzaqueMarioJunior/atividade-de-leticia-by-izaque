@@ -1,0 +1,7 @@
+nome = "Deco"
+profissao = "Jogador de Brawl"
+doenca = "Aleatorios Ruins"
+anosestudando = "20"
+presidente = "Trump do Brawl"
+
+print(f"{nome}, depois de vencer o campeonato mundial e de estudar cerca de {anosestudando} anos estudando, acabou realizando o seu sonho de se tornar um dos melhores {profissao}. {presidente} estava quase nao resistindo a doença dos {doenca}, até que, {nome} comovido com a situação, acabou enfrentando os {doenca} com um pouco de gameplay. Essa é a história em que o grande {nome} virou o melhor jogador de Brawl dos Estados Unidos.")
